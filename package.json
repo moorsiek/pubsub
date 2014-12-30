@@ -1,0 +1,32 @@
+{
+  "name": "pubsub",
+  "version": "0.1.0",
+  "description": "Simple PubSub implementation for use in a browser.",
+  "main": "src/pubsub.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "gulp-wrap-js": "~0.2.0",
+    "gulp-uglify": "~1.0.2",
+    "gulp-rename": "~1.2.0",
+    "gulp-showhelp": "~1.0.2",
+    "del": "~1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/schyzoo/pubsub"
+  },
+  "keywords": [
+    "pubsub",
+    "client-side",
+    "browser"
+  ],
+  "author": "schyzoo@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schyzoo/pubsub/issues"
+  }
+}
